@@ -1,0 +1,1 @@
+{"description":"Starlight Salvage — a top-down arena survival game for the make.fun best-game-01 bounty","name":"starlight-salvage","private":true,"scripts":{"build":"node main.ts","serve":"node serve.ts"},"type":"module","version":"1.0.0"}
